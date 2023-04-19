@@ -1,6 +1,6 @@
 # Homework 4
 
-This is the template repository for Homework 4 for [BEE 6940, Climate Risk Analysis](https://viveks.me/climate-risk-analysis) at Cornell University, Spring 2023. The goal of this homework is to calibrate a sea-level rise model using Bayesian methods and to compare several point estimates to the probabilistic ensemble.
+This is the template repository for Homework 4 for [BEE 6940, Climate Risk Analysis](https://viveks.me/climate-risk-analysis) at Cornell University, Spring 2023. The goal of this homework is to use model checks to compare quality of fit and relative evidence for stationary and non-stationary GEV models.
 
 **If you are registered in the class, DO NOT CLONE THIS REPOSITORY.** Instead, use the GitHub Classroom link from Ed Discussion to create your own repository.
 
